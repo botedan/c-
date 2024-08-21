@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WTINFO PC\\Desktop\\c#\\c#.csproj": {}
+    "C:\\Users\\WTINFO PC\\Desktop\\DIO_XP\\c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WTINFO PC\\Desktop\\c#\\c#.csproj": {
+    "C:\\Users\\WTINFO PC\\Desktop\\DIO_XP\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WTINFO PC\\Desktop\\c#\\c#.csproj",
+        "projectUniqueName": "C:\\Users\\WTINFO PC\\Desktop\\DIO_XP\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "C:\\Users\\WTINFO PC\\Desktop\\c#\\c#.csproj",
+        "projectPath": "C:\\Users\\WTINFO PC\\Desktop\\DIO_XP\\c#.csproj",
         "packagesPath": "C:\\Users\\WTINFO PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WTINFO PC\\Desktop\\c#\\obj\\",
+        "outputPath": "C:\\Users\\WTINFO PC\\Desktop\\DIO_XP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WTINFO PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

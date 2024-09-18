@@ -1,0 +1,6 @@
+C:\Users\WTINFO PC\Desktop\DIO_XP\ExemploFundamentos\obj\Debug\net8.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WTINFO PC\Desktop\DIO_XP\ExemploFundamentos\obj\Debug\net8.0\c#.AssemblyInfoInputs.cache
+C:\Users\WTINFO PC\Desktop\DIO_XP\ExemploFundamentos\obj\Debug\net8.0\c#.AssemblyInfo.cs
+C:\Users\WTINFO PC\Desktop\DIO_XP\ExemploFundamentos\obj\Debug\net8.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\WTINFO PC\Desktop\DIO_XP\ExemploFundamentos\obj\Debug\net8.0\c#.sourcelink.json
+C:\Users\WTINFO PC\Desktop\DIO_XP\ExemploFundamentos\obj\Debug\net8.0\c#.csproj.AssemblyReference.cache
